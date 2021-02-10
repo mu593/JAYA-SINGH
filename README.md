@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **Mentors of girl script summer of code**
 
-- 📝 I regularly write articles on [DS AND ALGORITHM; NEW TECHNOLOGY LEARNING EXPERIENCE](DS AND ALGORITHM; NEW TECHNOLOGY LEARNING EXPERIENCE)
+- 📝 I regularly write articles on [DS AND ALGORITHM; NEW TECHNOLOGY LEARNING EXPERIENCE]
 
 - 📫 How to reach me **sahibganj19@gmail.com**
 
